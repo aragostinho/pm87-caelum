@@ -14,6 +14,7 @@ namespace ConsoleApplication1
 	    Console.WriteLine("Ola mundo!!");
 	    Console.WriteLine("Ola conflito!!");
 	    Console.WriteLine("Ola conflito!!dfdfdfdf 88777 6 66 6 665ddfdf");
+	    Console.WriteLine("Bug resolvido!!!");
         }
     }
 }
