@@ -13,8 +13,7 @@ namespace ConsoleApplication1
             Console.WriteLine("Exemplo de teste de uso do git");
 	    Console.WriteLine("Ola mundo!!");
 	    Console.WriteLine("Ola conflito!!");
-	    Console.WriteLine("Ola conflito!!dfdfdfdfdffdfddffddfdf");
-
+	    Console.WriteLine("Ola conflito!!dfdfdfdf 88777 6 66 6 665ddfdf");
         }
     }
 }
