@@ -11,7 +11,11 @@ namespace ConsoleApplication1
         public static void Main(string[] args)
         {
             Console.WriteLine("Exemplo de teste de uso do git");
+
+
 	    Console.WriteLine("Ola mundo!!");
+
+
         }
     }
 }
